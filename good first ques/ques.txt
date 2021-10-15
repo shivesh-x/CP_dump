@@ -1,0 +1,5 @@
+Print Pascal Triangle using function
+Write a C++ Program to Print Pascal Triangle using function. Here’s simple Program to Print Pascal Triangle using function in C++ Programming Language.
+
+Pascal’s Triangle
+Pascal’s triangle is a triangular array of the binomial coefficients. Write a function that takes an integer value n as input and prints first n lines of the Pascal’s triangle. Following are the first 6 rows of Pascal’s Triangle.
