@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "array": "cpp",
+        "iostream": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "span": "cpp",
+        "ostream": "cpp",
+        "*.tcc": "cpp",
+        "bitset": "cpp",
+        "forward_list": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "initializer_list": "cpp",
+        "ranges": "cpp",
+        "regex": "cpp",
+        "valarray": "cpp"
+    }
+}
